@@ -13,6 +13,8 @@ def faktorial(x):
                    return 1
                else:
                    return (x * faktorial(x-1))
+
+#Rumus Permutasi
 hasil = (faktorial(n)/faktorial(n-r))
 
 #Mencetak Hasil
