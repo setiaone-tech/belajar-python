@@ -15,3 +15,6 @@ adalah tool atau program untuk mencetak bintang dalam bentuk segitiga sebanyak n
 
 # permutasi
 adalah tool atau program menghitung permutasi
+
+# kombinasi
+adalah tool atau program menghitung kombinasi
