@@ -4,7 +4,7 @@ Disini ada beberapa tool sederhana yg dibuat untuk belajar bahasa python.
 # suhu
 adalah tool untuk menconversi suhu dari celcius menjadi fahrenheit.
 
-# swab
+# swab dan huruf
 adalah tool yg menggunakan contoh logika if-else.
 
 # nilai
