@@ -12,3 +12,6 @@ adalah tool atau program untuk menentukan nilai grade yg menggunakan contoh logi
 
 # cetak-bintang
 adalah tool atau program untuk mencetak bintang dalam bentuk segitiga sebanyak n yg menggunakan contoh logika for(range)
+
+# permutasi
+adalah tool atau program menghitung permutasi
