@@ -4,7 +4,7 @@ Disini ada beberapa tool atau source code sederhana yg dibuat untuk belajar baha
 # suhu
 adalah tool atau program untuk menconversi suhu dari celcius menjadi fahrenheit.
 
-# swab dan huruf
+# swab, huruf, dan diskon
 adalah tool atau program yg menggunakan contoh logika if-else.
 
 # nilai
