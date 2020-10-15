@@ -18,3 +18,6 @@ adalah tool atau program menghitung permutasi
 
 # kombinasi
 adalah tool atau program menghitung kombinasi
+
+# matriks
+adalah tool atau program perhitungan konversi dari kartesius menjadi bentuk matriks dengan menggunakan library numpy dan math
